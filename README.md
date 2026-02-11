@@ -9,7 +9,8 @@ This project was built as a **learning and experimentation project** to strength
 ---
 
 ## 📊 Dataset
-- Publicly available Bitcoin historical price data
+## The dataset is too large to upload to Github.
+Download it from : <https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data>
 - Features include:
   - Date
   - Open price
